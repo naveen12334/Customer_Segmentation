@@ -6,3 +6,4 @@ seaborn
 matplotlib
 sklearn
 lightgbm
+gunicorn
